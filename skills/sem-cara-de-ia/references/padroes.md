@@ -40,7 +40,7 @@ Consulte a família pertinente. Os códigos P01–P40 correspondem ao discovery 
 | P22 · Títulos em excesso | Uma resposta simples é dividida em muitas seções | Reúna o conteúdo; preserve títulos úteis à consulta. |
 | P23 · Lista tautológica | “Qualidade: tenha qualidade” só repete o rótulo | Use instrução existente ou corte; preserve listas informativas. |
 | P24 · Ênfase indiscriminada | Negrito, emojis ou exclamações não distinguem prioridade | Ajuste ao canal e à voz; mantenha sinalização funcional. |
-| P25 · Pontuação confusa | Intercalações dificultam entender a relação principal | Reorganize a frase; preserve pontuação autoral que funciona. |
+| P25 · Travessão ou pontuação sem função | Travessões em série criam pausas e ênfase artificiais, ou intercalações escondem a relação principal | Em prosa corrente, prefira vírgula, dois-pontos ou ponto quando a leitura ficar mais natural; reorganize a frase se preciso. Preserve diálogo, aparte claro e ritmo autoral intencional. Não decida por contagem fixa. |
 | P26 · Fragmentação teatral | “Uma escolha. Um passo.” cria intensidade mecânica | Expresse a proposição; preserve ritmo intencional. |
 | P27 · Nominalização pesada | “Realização da implementação” esconde ação simples | Prefira verbo quando mais claro; preserve conceitos técnicos. |
 | P28 · Responsável omitido | O leitor precisa saber quem fez algo | Informe o agente apenas se conhecido; mantenha passiva legítima. |

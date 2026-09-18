@@ -31,7 +31,7 @@ Priorize alterações de sentido e falta de informação necessária; depois exa
 
 - Palavras como “crucial”, “robusto”, “jornada” e “além disso” não são proibidas.
 - Preserve passivas naturais, cautela acadêmica, contrastes reais, listas úteis e recursos literários.
-- Avalie travessões e outros sinais pela legibilidade, sem quantidade máxima universal.
+- Em prosa corrente em pt-BR, não introduza travessões para dar ênfase, explicar uma frase simples ou criar pausas que uma vírgula, dois-pontos ou ponto resolveriam naturalmente. Se o original acumular intercalações com travessão, simplifique a pontuação sem perder relações e sentido. Preserve travessões funcionais, como os de diálogo, apartes claros e ritmo literário intencional; não use uma contagem fixa como critério.
 - Respeite o pt-BR do autor, incluindo oralidade e variações regionais. Não adicione gírias ou erros para simular humanidade; não formalize uma mensagem casual sem pedido.
 - Retire resíduos do processo, como ofertas de adaptação coladas em um comunicado final, quando não fizerem parte do documento solicitado.
 - Se o texto já funcionar, mantenha-o. Não há cota de alterações.

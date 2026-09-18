@@ -16,6 +16,8 @@ Skill de revisão para português brasileiro. Ela reduz formulações genéricas
 
 Ela também mantém estruturas que cumprem uma função: cautela acadêmica, termos técnicos, contrastes reais, listas instrucionais, oralidade brasileira e recursos literários.
 
+Na prosa corrente, a revisão evita inserir travessões como pausa ou ênfase automática. Mantém o sinal quando ele serve ao diálogo, a um aparte claro ou ao ritmo intencional do autor.
+
 ## Instalação
 
 Há instruções completas para [Claude Code](docs/INSTALACAO.md#claude-code), [Codex](docs/INSTALACAO.md#codex) e instalação a partir de um [release do GitHub](docs/INSTALACAO.md#release-do-github).

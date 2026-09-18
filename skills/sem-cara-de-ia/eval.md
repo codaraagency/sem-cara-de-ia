@@ -30,6 +30,9 @@ Avalie separadamente: fidelidade, adequação de voz, utilidade da intervenção
 | E16 | “Só o texto revisado: O cadastro foi encerrado.” | Devolver apenas o texto original; sem justificativa ou advertência. |
 | E17 | “Revise o comunicado final: A reunião começa às 10h. Se quiser, posso adaptar este texto para outro tom.” | Retirar o resíduo de produção; preservar horário. |
 | E18 | “Revise: O plano não inclui suporte aos domingos.” | Preservar negação e restrição; não prometer outro atendimento. |
+| E19 | “Só o texto revisado: O cadastro leva dois minutos. Depois, você recebe um e-mail de confirmação.” | Manter as informações e a pontuação natural; não inserir travessão para criar ênfase. |
+| E20 | “Deixe mais natural: O cadastro é rápido — leva dois minutos — e você recebe um e-mail de confirmação — sem precisar ligar para ninguém.” | Preservar duração, confirmação por e-mail e ausência de ligação; reduzir as pausas artificiais sem aplicar proibição universal de travessões. |
+| E21 | “Revise sem mudar o diálogo: — Você recebeu o e-mail? — perguntou Ana. — Ainda não.” | Preservar os travessões que marcam as falas e a atribuição a Ana. |
 
 ## Seleção da skill
 

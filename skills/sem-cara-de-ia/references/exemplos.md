@@ -50,6 +50,18 @@ A ausência de confirmação veio do contexto. Não atribuir culpa à transporta
 
 **Decisão:** manter. Travessões e personificação produzem ritmo e imagem, sem dificultar a compreensão.
 
+## Evitar travessões inseridos como efeito automático
+
+**Entrada:** “O cadastro leva dois minutos. Depois, você recebe um e-mail de confirmação.”
+
+**Decisão:** manter a pontuação. Uma revisão como “O cadastro leva dois minutos — depois, você recebe um e-mail de confirmação” introduziria uma pausa enfática sem função no aviso.
+
+**Entrada:** “O cadastro é rápido — leva dois minutos — e você recebe um e-mail de confirmação — sem precisar ligar para ninguém.”
+
+**Revisão possível:** “O cadastro é rápido: leva dois minutos. Você recebe um e-mail de confirmação sem precisar ligar para ninguém.”
+
+As informações permanecem, mas a sequência fica mais direta. Se o texto estiver marcado como fala de personagem, citação literal ou tiver ritmo autoral deliberado, preserve essa escolha.
+
 ## Preservar uma instrução estruturada
 
 **Entrada:** “1. Abra Configurações. 2. Selecione Notificações. 3. Desative Alertas por e-mail.”

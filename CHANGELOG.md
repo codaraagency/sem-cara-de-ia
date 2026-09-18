@@ -2,6 +2,13 @@
 
 Este projeto segue [Versionamento Semântico](https://semver.org/lang/pt-BR/). Mudanças incompatíveis, recursos e correções são registradas por release.
 
+## [1.1.1] — 2026-09-17
+
+### Corrigido
+
+- Reduzido o uso de travessões sem função em prosa corrente, preservando diálogo, apartes claros e ritmo autoral.
+- Adicionados casos de avaliação para inserção indevida, excesso e uso funcional de travessões.
+
 ## [1.1.0] — 2026-09-17
 
 ### Adicionado
