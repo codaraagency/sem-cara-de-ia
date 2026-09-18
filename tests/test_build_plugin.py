@@ -31,7 +31,7 @@ class BuildPluginTests(unittest.TestCase):
                     "agents/openai.yaml",
                 ):
                     self.assertEqual(zf.read(rel), (ROOT / rel).read_bytes())
-                self.assertFalse(any(n.startswith("documents/") for n in zf.namelist()))
+                self.assertFalse(any(n.startswith(".git/") for n in zf.namelist()))
 
     def test_build_and_check_preserve_existing_artifacts(self):
         with tempfile.TemporaryDirectory() as temp:

@@ -42,7 +42,7 @@ Pedidos de edição de texto fornecido, manutenção de voz ou análise de artif
 - [ ] Ressalvas, negações, condições e citações continuam protegidas.
 - [ ] Há casos em que manter o texto é a decisão correta.
 - [ ] O modo de análise tem o mesmo contrato em todos os arquivos.
-- [ ] A skill funciona com sua pasta, sem depender de documents/.
+- [ ] A skill funciona com sua própria pasta e referências locais.
 - [ ] Referências são locais, acessíveis e carregadas conforme a necessidade.
 - [ ] O ZIP inclui referências e metadados da skill.
 - [ ] Evidência editorial não é apresentada como validação de autoria.

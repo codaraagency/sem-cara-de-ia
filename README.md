@@ -64,9 +64,9 @@ O último comando cria `dist/sem-cara-de-ia-plugin-<versão>.zip`. O pacote incl
 
 Para publicar uma nova versão, siga o [guia de release](docs/PUBLICAR_NO_GITHUB.md). O workflow valida o pacote em pull requests e cria uma release com o ZIP ao receber uma tag `v*`.
 
-## Pesquisa e limites
+## Limites
 
-O [discovery](documents/README.md) reúne fontes, taxonomia, exemplos e protocolo de avaliação para pt-BR. O material separa resultados de pesquisa de hipóteses editoriais. Nenhuma taxa de detecção ou frequência geral é reivindicada.
+As 40 heurísticas são critérios editoriais, não um classificador de autoria. Nenhuma taxa de detecção ou frequência geral é reivindicada. As referências da skill trazem padrões, exceções e casos de avaliação necessários ao uso.
 
 ## Contribuir
 

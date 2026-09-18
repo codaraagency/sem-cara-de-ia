@@ -20,4 +20,4 @@ A skill deve evitar inventar dados ou fontes, reescrever quando o pedido é só 
 
 Versão 1.1.0. O pacote inclui a skill, duas referências, critérios de avaliação e metadados de interface. Não depende de servidor próprio nem de conta adicional à do ambiente que executa a skill.
 
-As 40 heurísticas são editoriais. A pesquisa e seus limites estão no [discovery](documents/README.md). Nenhuma taxa de detecção ou frequência geral é reivindicada.
+As 40 heurísticas são editoriais. Nenhuma taxa de detecção ou frequência geral é reivindicada.
