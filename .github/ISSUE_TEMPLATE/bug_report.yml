@@ -1,0 +1,46 @@
+name: Bug report
+description: Relate um comportamento reproduzível da skill ou do pacote.
+title: "bug: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "Não inclua textos privados, dados pessoais ou credenciais."
+  - type: input
+    id: version
+    attributes:
+      label: Versão
+      description: Versão do plugin ou commit usado.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Área
+      options:
+        - Edição
+        - Análise
+        - Instalação
+        - Empacotamento
+        - Documentação
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Pedido e contexto
+      description: Remova dados confidenciais.
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Resultado observado
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Resultado esperado
+    validations:
+      required: true

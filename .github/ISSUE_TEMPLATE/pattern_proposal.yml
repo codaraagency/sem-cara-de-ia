@@ -1,0 +1,36 @@
+name: Proposta de padrão editorial
+description: Sugira uma heurística ou exceção para a skill.
+title: "padrão: "
+labels: [enhancement, pattern]
+body:
+  - type: markdown
+    attributes:
+      value: "Não use uma palavra isolada como prova de autoria e não inclua textos privados."
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problema editorial
+      description: Descreva o efeito sobre clareza, precisão, voz ou adequação.
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: Exemplo mínimo
+      description: Use exemplo fictício ou material que possa ser compartilhado.
+    validations:
+      required: true
+  - type: textarea
+    id: exception
+    attributes:
+      label: Exceção legítima
+      description: Em qual contexto esse recurso deve ser mantido?
+    validations:
+      required: true
+  - type: textarea
+    id: evaluation
+    attributes:
+      label: Caso de avaliação sugerido
+      description: Como verificar que a regra preserva fatos e voz?
+    validations:
+      required: true

@@ -1,0 +1,4 @@
+interface:
+  display_name: "/sem-cara-de-ia"
+  short_description: "Revise textos em pt-BR preservando fatos e voz."
+  default_prompt: "Use $sem-cara-de-ia para revisar este texto, preservando os fatos e a minha voz."

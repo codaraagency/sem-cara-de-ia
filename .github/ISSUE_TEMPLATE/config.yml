@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Perguntas de uso
+    url: https://github.com/lucashegouet/sem-cara-de-ia/discussions
+    about: Use Discussions para dúvidas e troca de exemplos.
+  - name: Vulnerabilidade de segurança
+    url: https://github.com/lucashegouet/sem-cara-de-ia/security/advisories/new
+    about: Relate vulnerabilidades por uma advisory privada.

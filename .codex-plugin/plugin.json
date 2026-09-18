@@ -1,0 +1,39 @@
+{
+  "name": "sem-cara-de-ia",
+  "version": "1.1.0",
+  "description": "Revisa textos em português brasileiro para reduzir escrita genérica, preservando fatos, incertezas e voz.",
+  "author": "Lucas Hegouet",
+  "license": "MIT",
+  "homepage": "https://github.com/codaraagency/sem-cara-de-ia",
+  "interface": {
+    "display_name": "/sem-cara-de-ia",
+    "short_description": "Revise textos em pt-BR preservando fatos e voz.",
+    "category": "writing",
+    "capabilities": [
+      "edit",
+      "analyze",
+      "preserve_voice"
+    ],
+    "default_prompt": "Use $sem-cara-de-ia para revisar este texto, preservando os fatos e a minha voz.",
+    "prompts": [
+      {
+        "label": "Editar",
+        "prompt": "Use $sem-cara-de-ia para editar este texto e tirar a cara de IA, preservando a minha voz."
+      },
+      {
+        "label": "Analisar",
+        "prompt": "Use $sem-cara-de-ia para apontar o que soa artificial neste texto, sem reescrever nem atribuir autoria."
+      }
+    ]
+  },
+  "branding": {
+    "color": "#0057D8",
+    "logo": "assets/sem-cara-de-ia.svg"
+  },
+  "files": {
+    "skill": "skills/sem-cara-de-ia/SKILL.md",
+    "privacy": "PRIVACY.md",
+    "terms": "TERMS.md",
+    "license": "LICENSE"
+  }
+}
